@@ -2,4 +2,4 @@
 .project
 .Rhistory
 *.pyc
-.ipynb_checkpoints
+**/*.ipynb_checkpoints
