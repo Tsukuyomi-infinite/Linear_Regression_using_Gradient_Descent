@@ -67,3 +67,6 @@ def gradientDescentSteps(mStarting, bStarting, data, steps):
 ## References
 [Siraj Raval Math of Intelligence](https://github.com/llSourcell/Intro_to_the_Math_of_intelligence)
 <br /> [Introduction to Gradient Descent and Linear Regression - Matt Nedrich](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
+
+
+![Gradient Descent](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1/resources/gradient_descent_1.png)
