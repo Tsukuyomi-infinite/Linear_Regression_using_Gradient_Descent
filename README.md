@@ -62,7 +62,7 @@ def gradientDescentSteps(mStarting, bStarting, data, steps):
 ```
 
 ### Vizualization after Gradient Descent.
-![Best Fit Gradient Descent](https://github.com/devrathmohanty/Linear_Regression_using_Gradient_Descent/blob/master/images/bestFitGradientDescent.png
+![Best Fit Gradient Descent](https://github.com/devrathmohanty/Linear_Regression_using_Gradient_Descent/blob/master/images/bestFitGradientDescent.png)
 
 ## References
 [Siraj Raval Math of Intelligence](https://github.com/llSourcell/Intro_to_the_Math_of_intelligence)
