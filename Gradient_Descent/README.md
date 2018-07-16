@@ -1,4 +1,4 @@
-# Coding_Challenge_Siraj
+# Linear Regression using Gradient Descent
 
 The coding challenge is to implement gradient descent to find the line of best fit that predicts the relationship between 2 variables of your choice from a [kaggle](https://www.kaggle.com/datasets) dataset using python.
 
