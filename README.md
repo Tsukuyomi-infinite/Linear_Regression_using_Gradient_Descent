@@ -1,5 +1,3 @@
-# Coding_Challenge_Siraj
+# Linear Regression
 
-This repository contains the codes for the coding challenges from Siraj Raval's new course "The Math of Intelligence".
-
-All the algorithms are written in python without using popular frameworks such as Tensorflow, Keras, etc.
+This repository contains codes for the performing linear regression usnig gradient descent using python from the scratch, without using popular frameworks such as Tensorflow, Keras, etc.
