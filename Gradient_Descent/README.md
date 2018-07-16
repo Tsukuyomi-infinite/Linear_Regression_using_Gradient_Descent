@@ -21,7 +21,7 @@ Dataset [Weather in Szeged 2006-2016](https://www.kaggle.com/budincsevity/szeged
 
 ### Data Vizualization
 
-<img src="https://github.com/devrathmohanty/Coding_Challenge_Siraj/blob/master/Gradient_Descent/images/scatter.png", width=400, height=400>
+![Scatter](https://github.com/devrathmohanty/Coding_Challenge_Siraj/blob/master/Gradient_Descent/images/scatter.png")
 
 Algorithm for **Sum of Squared Error**
 ```
@@ -41,7 +41,7 @@ def sumSquaredError(m, b, data):
 ```
 
 ### Vizualization after Linear Regression.
-<img src="https://github.com/devrathmohanty/Coding_Challenge_Siraj/blob/master/Gradient_Descent/images/bestFit.png", width=400, height=400>
+![Best Fit]("https://github.com/devrathmohanty/Coding_Challenge_Siraj/blob/master/Gradient_Descent/images/bestFit.png")
 
 Algorithm for **Gradient Descent**
 
@@ -62,7 +62,7 @@ def gradientDescentSteps(mStarting, bStarting, data, steps):
 ```
 
 ### Vizualization after Gradient Descent.
-<img src="https://github.com/devrathmohanty/Coding_Challenge_Siraj/blob/master/Gradient_Descent/images/bestFitGradientDescent.png", width=400, height=400>
+![Best Fit Gradient Descent]("https://github.com/devrathmohanty/Coding_Challenge_Siraj/blob/master/Gradient_Descent/images/bestFitGradientDescent.png")
 
 ## References
 [Siraj Raval Math of Intelligence](https://github.com/llSourcell/Intro_to_the_Math_of_intelligence)
